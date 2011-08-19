@@ -1,6 +1,6 @@
 # django-handson
 
-Projeto Django para usar como exemplo em apresentações.
+Projeto Django para usar como exemplo "hands-on" em apresentações.
 
 
 ## Instalação 
